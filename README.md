@@ -5,7 +5,7 @@
 * The user will be able to view create and track daily workouts. They will be able to log multiple exercises in a workout on a given day. 
 
 
-#Functions
+##Functions
 
 *Track the name
 *Type 
