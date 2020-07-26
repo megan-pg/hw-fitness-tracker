@@ -7,13 +7,13 @@
 
 ## Functions
 
-*Track the name
-*Type 
-*Weight
-*Sets
-*Reps
-*Duration of exercise
-*Travel for cardio
+* Track the name
+* Type 
+* Weight
+* Sets
+* Reps
+* Duration of exercise
+* Travel for cardio
 
 ## UX
 
